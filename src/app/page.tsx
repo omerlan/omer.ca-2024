@@ -11,7 +11,7 @@ export default function Home() {
           <span className="text-oBlue">
             Designer<span className="text-oPurple">&#x2b;</span>
           </span>
-          <span className="text-oRed shadow-xl">Developer</span>
+          <span className="text-oRed">Developer</span>
         </h1>
         <p className="xl:text-xl md:text-lg sm:text-md text-sm">
           Hi, I’m Omer. I’m an interaction designer
