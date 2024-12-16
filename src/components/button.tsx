@@ -1,7 +1,7 @@
 import React from "react";
 
 interface Button {
-  type?: any;
+  type?: React.ButtonHTMLAttributes<HTMLButtonElement>["type"];
   label?: string;
   classes?: string;
   onClick?: () => void;
